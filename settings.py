@@ -21,14 +21,16 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
+database = 'database_dev'
+
 DATABASES = {
     'default': {
-        'ENGINE': config.get('database', 'DATABASE_ENGINE'),
-        'NAME': config.get('database', 'DATABASE_NAME'),
-        'USER': config.get('database', 'DATABASE_USER'),
-        'PASSWORD': config.get('database', 'DATABASE_PASSWORD'),
-        'HOST': config.get('database', 'DATABASE_HOST'),
-        'PORT': config.get('database', 'DATABASE_PORT')
+        'ENGINE': config.get(database, 'DATABASE_ENGINE'),
+        'NAME': config.get(database, 'DATABASE_NAME'),
+        'USER': config.get(database, 'DATABASE_USER'),
+        'PASSWORD': config.get(database, 'DATABASE_PASSWORD'),
+        'HOST': config.get(database, 'DATABASE_HOST'),
+        'PORT': config.get(database, 'DATABASE_PORT')
     }
 }
 
