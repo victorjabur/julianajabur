@@ -4,6 +4,9 @@
 import os
 
 from ConfigParser import RawConfigParser
+from julianajaburapp import Util
+
+util = Util.Util()
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -21,16 +24,14 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-database = 'database_dev'
-
 DATABASES = {
     'default': {
-        'ENGINE': config.get(database, 'DATABASE_ENGINE'),
-        'NAME': config.get(database, 'DATABASE_NAME'),
-        'USER': config.get(database, 'DATABASE_USER'),
-        'PASSWORD': config.get(database, 'DATABASE_PASSWORD'),
-        'HOST': config.get(database, 'DATABASE_HOST'),
-        'PORT': config.get(database, 'DATABASE_PORT')
+        'ENGINE': config.get('database', 'DATABASE_ENGINE'),
+        'NAME': config.get('database', 'DATABASE_NAME'),
+        'USER': config.get('database', 'DATABASE_USER'),
+        'PASSWORD': config.get('database', 'DATABASE_PASSWORD'),
+        'HOST': config.get('database', 'DATABASE_HOST'),
+        'PORT': config.get('database', 'DATABASE_PORT')
     }
 }
 
@@ -120,7 +121,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    config.get('django_settings', 'TEMPLATE_DIRS')
+    util.getEntry('django_settings', 'TEMPLATE_DIRS', PYTHON_CONF)
 )
 
 INSTALLED_APPS = (
