@@ -17,19 +17,9 @@ class Util:
     def getEntry(self, setor, chave, caminhoArquivoConfiguracao):
         config = self.getConfigurationFile(caminhoArquivoConfiguracao)
         conf = config.get(setor, chave)
-        if conf.startswith('RAIZ_LOCAL'):
-            conf = conf.replace('RAIZ_LOCAL', self.getRaizLocal(caminhoArquivoConfiguracao))
-        if conf.startswith('RAIZ_REMOTA'):
-            conf = conf.replace('RAIZ_REMOTA', config.get('geral', 'RAIZ_REMOTA'))
+        conf = conf.replace('RAIZ_LOCAL', config.get('geral', 'RAIZ_LOCAL'))
+        conf = conf.replace('RAIZ_REMOTA', config.get('geral', 'RAIZ_REMOTA'))
         return conf
-
-    def getRaizLocal(self, caminhoArquivoConfiguracao):
-        config = self.getConfigurationFile(caminhoArquivoConfiguracao)
-        version = sys.platform
-        if version.startswith('linux'):
-            return config.get('geral', 'RAIZ_LOCAL_LINUX')
-        else:
-            return config.get('geral', 'RAIZ_LOCAL_WINDOWS')
 
     def pathJoin(self, raiz, diretorio):
         return os.path.join(raiz, diretorio).replace('\\', '/')

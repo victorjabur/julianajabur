@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c400b929-a6b4-4112-8faa-bc1f4a3f555d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/Util.py" afterPath="$PROJECT_DIR$/julianajaburapp/Util.py" />
     </list>
     <ignored path="julianajabur.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +33,43 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
+            <state line="123" column="65" selection-start="4246" selection-end="4246" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="27" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/julianajaburapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="62" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/julianajaburapp/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="31" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/julianajaburapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,7 +78,7 @@
       <file leaf-file-name="Util.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/julianajaburapp/Util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="41" selection-start="719" selection-end="719" vertical-scroll-proportion="0.42785236">
+            <state line="20" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.45302013">
               <folding />
             </state>
           </provider>
@@ -441,6 +478,7 @@
     <frame x="-4" y="25" width="1288" height="753" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23402728" sideWeight="0.67081606" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -457,7 +495,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -535,24 +572,9 @@
         <state line="14" column="43" selection-start="424" selection-end="424" vertical-scroll-proportion="0.5300668" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/julianajaburapp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="62" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/julianajaburapp/public_html/index.wsgi">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="372" selection-end="372" vertical-scroll-proportion="0.2505263" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/julianajaburapp/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="388" selection-end="388" vertical-scroll-proportion="0.35789475" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="39" selection-start="713" selection-end="728" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/results.html">
@@ -565,11 +587,6 @@
         <state line="8" column="11" selection-start="231" selection-end="231" vertical-scroll-proportion="0.22058824" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/julianajaburapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1005" selection-end="1005" vertical-scroll-proportion="0.4753521" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="7" selection-start="456" selection-end="456" vertical-scroll-proportion="0.31073445" />
@@ -580,14 +597,42 @@
         <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/julianajaburapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="62" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/julianajaburapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="31" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/julianajaburapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="752" selection-end="752" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="27" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" />
+        <state line="123" column="65" selection-start="4246" selection-end="4246" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/julianajaburapp/Util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="41" selection-start="719" selection-end="719" vertical-scroll-proportion="0.42785236">
+        <state line="20" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.45302013">
           <folding />
         </state>
       </provider>
