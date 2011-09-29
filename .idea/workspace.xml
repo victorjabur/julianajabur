@@ -2,116 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c400b929-a6b4-4112-8faa-bc1f4a3f555d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/julianajaburapp/Util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/julianajabur.iml" afterPath="$PROJECT_DIR$/.idea/julianajabur.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/index.wsgi" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/index.wsgi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/arrow-down.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/arrow-down.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/arrow-up.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/arrow-up.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/changelist-bg.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/changelist-bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/changelist-bg_rtl.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/changelist-bg_rtl.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/chooser-bg.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/chooser-bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/chooser_stacked-bg.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/chooser_stacked-bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/default-bg-reverse.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/default-bg-reverse.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/default-bg.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/default-bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/deleted-overlay.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/deleted-overlay.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon-no.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon-no.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon-unknown.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon-unknown.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon-yes.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon-yes.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_addlink.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_addlink.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_alert.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_alert.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_calendar.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_calendar.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_changelink.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_changelink.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_clock.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_clock.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_deletelink.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_deletelink.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_error.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_error.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_searchbox.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_searchbox.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_success.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/icon_success.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-delete-8bit.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-delete-8bit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-delete.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-delete.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-restore-8bit.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-restore-8bit.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-restore.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-restore.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-splitter-bg.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/inline-splitter-bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/nav-bg-grabber.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/nav-bg-grabber.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/nav-bg-reverse.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/nav-bg-reverse.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/nav-bg.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/nav-bg.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-add.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-add.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-addall.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-addall.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-remove.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-remove.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-removeall.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-removeall.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-search.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector-search.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector_stacked-add.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector_stacked-add.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector_stacked-remove.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/selector_stacked-remove.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-left.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-left.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-left_over.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-left_over.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-right.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-right.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-right_over.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tool-right_over.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-add.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-add.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-add_over.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-add_over.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-arrowright.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-arrowright.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-arrowright_over.gif" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/admin/tooltag-arrowright_over.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/gis/move_vertex_off.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/gis/move_vertex_off.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/gis/move_vertex_on.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/img/gis/move_vertex_on.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/static/images/error/background.jpg" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/static/images/error/background.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/static/images/logo_gif.png" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/static/images/logo_gif.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Victor.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Victor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/__init__.py" afterPath="$PROJECT_DIR$/julianajaburapp/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/admin.py" afterPath="$PROJECT_DIR$/julianajaburapp/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/models.py" afterPath="$PROJECT_DIR$/julianajaburapp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/.htaccess" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/base.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/base.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/changelists.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/changelists.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/dashboard.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/dashboard.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/forms.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/forms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/ie.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/ie.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/login.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/rtl.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/widgets.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/css/widgets.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/LICENSE-JQUERY.txt" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/LICENSE-JQUERY.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/SelectBox.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/SelectBox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/SelectFilter2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/actions.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/actions.min.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/actions.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/admin/DateTimeShortcuts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/admin/RelatedObjectLookups.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/admin/ordering.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/admin/ordering.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/calendar.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/calendar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/collapse.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/collapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/collapse.min.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/collapse.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/compress.py" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/compress.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/core.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/dateparse.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/dateparse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/getElementsBySelector.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/getElementsBySelector.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/inlines.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/inlines.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/inlines.min.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/inlines.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/jquery.init.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/jquery.init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/jquery.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/jquery.min.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/prepopulate.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/prepopulate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/prepopulate.min.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/prepopulate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/timeparse.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/timeparse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/urlify.js" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/js/urlify.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/static/css/error.css" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/static/css/error.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/admin/base_site.html" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/admin/base_site.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/error/404.html" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/error/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/error/500.html" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/error/500.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/detail.html" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/index.html" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/results.html" afterPath="$PROJECT_DIR$/julianajaburapp/public_html/media/julianajabur/template/polls/results.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/tests.py" afterPath="$PROJECT_DIR$/julianajaburapp/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/julianajaburapp/views.py" afterPath="$PROJECT_DIR$/julianajaburapp/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls.py" afterPath="$PROJECT_DIR$/urls.py" />
     </list>
     <ignored path="julianajabur.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -150,7 +41,7 @@
       <file leaf-file-name="Util.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/julianajaburapp/Util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="48" selection-start="768" selection-end="768" vertical-scroll-proportion="0.3478261">
+            <state line="19" column="41" selection-start="719" selection-end="719" vertical-scroll-proportion="0.42785236">
               <folding />
             </state>
           </provider>
@@ -215,8 +106,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="Scope" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,13 +149,13 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="176" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="173" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="178" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="847" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="852" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="847" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="173" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="172" />
@@ -281,8 +172,8 @@
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="Django server.julianajabur">
     <configuration default="false" name="deployLocaweb" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -550,16 +441,15 @@
     <frame x="-4" y="25" width="1288" height="753" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23402728" sideWeight="0.67081606" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21300814" sideWeight="0.33811802" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25915292" sideWeight="0.67081606" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21300814" sideWeight="0.67304623" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21707317" sideWeight="0.67304623" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40696117" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32695374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32695374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32918397" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -567,6 +457,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -691,14 +582,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="364" selection-end="364" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/julianajaburapp/Util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="48" selection-start="768" selection-end="768" vertical-scroll-proportion="0.3478261">
+        <state line="19" column="41" selection-start="719" selection-end="719" vertical-scroll-proportion="0.42785236">
           <folding />
         </state>
       </provider>
